@@ -64,4 +64,5 @@ Plugin 'FIBR3D': load succeeded.
 8. Load your G-Code file.
 9. Start your simulation! :smile:
 
-![gif](https://i.imgur.com/UKYKbTL.gif)
+READMEs cannot host large gifs... :unamused:
+Here is a link to a quick launch example -> https://i.imgur.com/UKYKbTL.gif
