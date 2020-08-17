@@ -1,0 +1,17 @@
+C:\Users\Utilizador\Desktop\FIBR3DEmul-master\gcode_interpreter\GCodeInterpreter\bin\Release\GCodeInterpreter.exe.config
+C:\Users\Utilizador\Desktop\FIBR3DEmul-master\gcode_interpreter\GCodeInterpreter\bin\Release\GCodeInterpreter.exe
+C:\Users\Utilizador\Desktop\FIBR3DEmul-master\gcode_interpreter\GCodeInterpreter\bin\Release\GCodeInterpreter.pdb
+C:\Users\Utilizador\Desktop\FIBR3DEmul-master\gcode_interpreter\GCodeInterpreter\bin\Release\Newtonsoft.Json.dll
+C:\Users\Utilizador\Desktop\FIBR3DEmul-master\gcode_interpreter\GCodeInterpreter\bin\Release\Newtonsoft.Json.xml
+C:\Users\Utilizador\Desktop\FIBR3DEmul-master\gcode_interpreter\GCodeInterpreter\obj\Release\GCodeInterpreter.csprojAssemblyReference.cache
+C:\Users\Utilizador\Desktop\FIBR3DEmul-master\gcode_interpreter\GCodeInterpreter\obj\Release\GCodeInterpreter.AboutBox.resources
+C:\Users\Utilizador\Desktop\FIBR3DEmul-master\gcode_interpreter\GCodeInterpreter\obj\Release\GCodeInterpreter.Collisions.resources
+C:\Users\Utilizador\Desktop\FIBR3DEmul-master\gcode_interpreter\GCodeInterpreter\obj\Release\GCodeInterpreter.GoToLineForm.resources
+C:\Users\Utilizador\Desktop\FIBR3DEmul-master\gcode_interpreter\GCodeInterpreter\obj\Release\GCodeInterpreter.InterpreterForm.resources
+C:\Users\Utilizador\Desktop\FIBR3DEmul-master\gcode_interpreter\GCodeInterpreter\obj\Release\GCodeInterpreter.Properties.Resources.resources
+C:\Users\Utilizador\Desktop\FIBR3DEmul-master\gcode_interpreter\GCodeInterpreter\obj\Release\GCodeInterpreter.Report.resources
+C:\Users\Utilizador\Desktop\FIBR3DEmul-master\gcode_interpreter\GCodeInterpreter\obj\Release\GCodeInterpreter.csproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\FIBR3DEmul-master\gcode_interpreter\GCodeInterpreter\obj\Release\GCodeInterpreter.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\FIBR3DEmul-master\gcode_interpreter\GCodeInterpreter\obj\Release\GCodeInterpreter.csproj.CopyComplete
+C:\Users\Utilizador\Desktop\FIBR3DEmul-master\gcode_interpreter\GCodeInterpreter\obj\Release\GCodeInterpreter.exe
+C:\Users\Utilizador\Desktop\FIBR3DEmul-master\gcode_interpreter\GCodeInterpreter\obj\Release\GCodeInterpreter.pdb

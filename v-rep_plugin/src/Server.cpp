@@ -11,7 +11,7 @@
 #pragma once
 
 #include "Server.h"
-#include "../v_repExtFIBR3D.h"
+#include "../simExtFIBR3D.h"
 
 using boost::asio::ip::tcp;
 

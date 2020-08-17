@@ -10,12 +10,12 @@
 
 #pragma once
 
-#include "Listener.h"
-#include "Speaker.h"
-
+#include <boost/asio.hpp>
 #include <boost/bind.hpp>
 #include <boost/thread.hpp>
-#include <boost/asio.hpp>
+
+#include "Listener.h"
+#include "Speaker.h"
 
 #include <cstdlib>
 #include <iostream>
