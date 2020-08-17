@@ -56,7 +56,7 @@ Plugin 'FIBR3D': loading...
 Plugin 'FIBR3D': load succeeded.
 ``` 
 
-![](https://i.imgur.com/X11M09I.png)
+![cmd](https://i.imgur.com/X11M09I.png)
 
 5. Open the `example_scene.ttt` 
 6. Start the simulation
@@ -64,4 +64,4 @@ Plugin 'FIBR3D': load succeeded.
 8. Load your G-Code file.
 9. Start your simulation! :smile:
 
-![](https://i.imgur.com/UKYKbTL.gif)
+![gif](https://i.imgur.com/UKYKbTL.gif)
